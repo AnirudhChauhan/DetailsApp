@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.CenTopPadd{
+  text-align: center;
+  margin-top: 20px;  
+}
+
+.adjustButton{
+  height: 20px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 70px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.LoginAdjust{
+  height: 70px;
+  padding: 20px;
+}
+
+.LoginAdjusted{
+  padding: 5px;
+}
+
+.LoginTitle{
+  padding-top: 55px; 
+  padding-bottom: 35px;
+  font-size: 1.5em;
+  
+}
+
+.FormPadding{
+  padding-top: 3%;
+}
+
+.LogoutRight{
+  padding-right: 30px;
+}
+
+.confirmDetails{
+  padding-left: 25px;
+}
+
+.CardWith{
+  width: 50%;
+}
+
+.CardPadding{
+  padding-left: 35%;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
